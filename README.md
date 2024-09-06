@@ -27,7 +27,7 @@ A simple web app to generate custom QR codes.
 
 ## Demo
 
-Check out the live demo [here](https://qrcode-generator-mrityunjay-sonis-projects.vercel.app/).
+Check out the live demo [here](https://qr-genie.vercel.app/).
 
 ## License
 
