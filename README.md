@@ -1,6 +1,6 @@
 # QR Code Generator
 
-![Project Preview](/dist/assets/mockup.png)
+![Project Preview](/assets/mockup2.png)
 
 A simple web app to generate custom QR codes.
 
